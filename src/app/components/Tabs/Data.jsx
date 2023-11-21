@@ -315,9 +315,9 @@ const Data = () => {
                   heading:
                   "MOSFET , EMOSFET , DMOSFET ",
                   description:
-                  "MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) is a type of transistor that includes subcategories such as E-MOSFET (Enhancement MOSFET) and D-MOSFET (Depletion MOSFET), each with distinct characteristics, used for electronic switching and amplification.",
+                  "MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) is a type of transistor that includes subcategories such as E-MOSFET (Enhancement MOSFET) and D-MOSFET (Depletion MOSFET), .",
                  link: 
-                 "MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) is a type of transistor that includes subcategories such as E-MOSFET (Enhancement MOSFET) and D-MOSFET (Depletion MOSFET), each with distinct characteristics, used for electronic switching and amplification.",},
+                 "https://youtu.be/X4_8dh-J4ik?si=MvkGwvtUe0radWY",},
                 
         ],
 
